@@ -1,3 +1,5 @@
+(timeline: Fall 2015)
+
 # kaggle_how_much_did_it_rain_ii  
 Competition Link: [https://www.kaggle.com/c/how-much-did-it-rain-ii](https://www.kaggle.com/c/how-much-did-it-rain-ii)  
 Team Name: MLCLASS_REIGNtheRAIN  
