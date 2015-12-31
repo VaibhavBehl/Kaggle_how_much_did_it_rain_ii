@@ -1,5 +1,5 @@
-# [kaggle_how_much_did_it_rain_ii](https://www.kaggle.com/c/how-much-did-it-rain-ii)
-
+# kaggle_how_much_did_it_rain_ii  
+competition link: [https://www.kaggle.com/c/how-much-did-it-rain-ii](https://www.kaggle.com/c/how-much-did-it-rain-ii)  
 **Private Leaderboard Rank: #36/600**  
 **Class Rank: #1/45**  
 
