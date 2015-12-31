@@ -1,0 +1,9 @@
+1. If Train/Test files Exist: The train and test files have been modified a little by adding one extra valid_time column, so directly using the train/test files provided by the kaggle will not work.You have to go into the (./data_CSV/) directory and do 'Extract Here' on all the (*.7z) files found in that directory and its sub-directory.
+
+2. If Train/Test files Don't Exist(which will be the case, don't want to commit big files to github): If those modified train and test files are not present, then run the sql-server scripts to first generate 10 random splits of train data and then run the R script to add valid_time column. Follow the comments mentioned in the specific code files.
+
+3. Data Preparation: There should be the modified test.csv under (./data_CSV/) directory and 10 splits of modified train*.csv under(./data_CSV/splits_10). Please verify this before proceeding.
+
+4. Final Step: To generate the final submission, run the script- './R/code/generate_final_solution.R'.
+
+NOTE: at some places the files have been hard-coded, so you'll have to manually edit those, follow the directions given by any warnings/errors you receive.
